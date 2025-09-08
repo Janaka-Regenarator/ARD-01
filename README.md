@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Basic Arduino projects, Automobile, Mechanical Engineering basics**
 
-- 📫 How to reach me **janakambandara67@gmail.com**
+- 📫 How to reach me **janakamaheshbandara67@gmail.com**
 
 - 📄 Know about my experiences [https://janaka-tech-blog.vercel.app](https://janaka-tech-blog.vercel.app)
 
